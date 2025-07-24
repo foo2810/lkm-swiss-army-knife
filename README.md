@@ -1,1 +1,3 @@
-# kmod_template_for_investigation
+# lkm-swiss-army-knife
+
+LKM templates to explore linux kernel.
