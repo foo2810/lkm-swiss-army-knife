@@ -1,4 +1,4 @@
-#define pr_fmt(fmt) "lkpg-kprobe: " fmt
+#define pr_fmt(fmt) "lkpg: " fmt
 
 #include <linux/init.h>
 #include <linux/module.h>
